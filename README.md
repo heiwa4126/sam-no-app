@@ -1,7 +1,7 @@
 # sam-no-app
 
-S3 WWWを建てる。
-CloudFormationを生で使うよりSAMを使ったほうが楽、のサンプル。Lambdaなし。
+S3 WWWを建てるAWS SAM(Lambdaなし)。
+CloudFormationを生で使うよりSAMを使ったほうが楽、のサンプル。
 
 # 使い方
 
