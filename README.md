@@ -33,6 +33,15 @@ WWWのURLは `http://バケット名.s3-website-リージョン名.amazonaws.com
 1. `./delete_stack.sh`
 
 
+# 参考
+
+[チュートリアル \- Amazon S3 でのウェブサイトのホスティング \- Amazon Simple Storage Service](https://docs.aws.amazon.com/ja_jp/AmazonS3/latest/userguide/hosting-websites-on-s3-examples.html)
+
+# TODO
+
+カスタムドメイン版
+([Route 53 に登録されたカスタムドメインを使用した静的ウェブサイトの設定 \- Amazon Simple Storage Service](https://docs.aws.amazon.com/ja_jp/AmazonS3/latest/userguide/website-hosting-custom-domain-walkthrough.html))
+
 
 # 以下sam initでできたものそのまま
 
